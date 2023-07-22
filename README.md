@@ -53,6 +53,9 @@ abs_rel |   sq_rel |     rmse | rmse_log |       a1 |       a2 |       a3 |
 0.108  &   0.777  &   4.643  &   0.185  &   0.881  &   0.961  &   0.983  \\
 ```
 
+## Model path
+Model checkpoints can be found here:
+[Models](https://mega.nz/folder/Td1GiChL#G8jmF5E5PDgjP2X-7Zm_sA)
 
 ## Acknowledge
 
